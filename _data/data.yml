@@ -80,11 +80,11 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python (Pandas,NLTK,Matplotlib,Scrapy..)
-        level: 60%
+      - name: Python
+        level: 65%
 
       - name: Jira
-        level: 75%
+        level: 70%
 
       - name: Git
         level: 40%
@@ -93,4 +93,9 @@ skills:
         level: 50%
 
       - name: SQL
-        level: 80%
+        level: 70%
+        
+      - name: REST APIs
+        level: 65% 
+      - name: Postman
+        level: 65%
