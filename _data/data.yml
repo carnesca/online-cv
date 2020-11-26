@@ -66,11 +66,12 @@ experiences:
           - Led client deliveries and presented data insights that had real business value in either technical or non-technical language
           - Delegated work and conducted QA on work from 3rd party consultants
           - Mentored junior-level analysts both locally and remotely
+          - Built custom applications based on Brandwatch's Consumer Research API in Python
     - role: E-commerce & Digital Marketing
       time: Nov. 2016 - Nov. 2017
       company: Flux Design Products GmbH
       details: |
-          - Analyzed web & e-commerce data (i.e CLV modeling)
+          - Analyzed web & e-commerce data (i.e CLV modeling) using Python and SQL
           - E-commerce shop UX & UI optimization using A/B/multivariate testing methods
           - Web analytics reporting and presentation to managers and executives
           - Social media campaign execution,reporting and optimization
