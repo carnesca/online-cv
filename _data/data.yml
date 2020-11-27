@@ -51,6 +51,10 @@ experiences:
       time: Sep. 2019 - Present
       company: Brandwatch - Boston, USA
       details: |
+          - Led development of 2 new public APIs after a merger and led migration of ~300 customers
+          - Led development and release of external embedded application which increased MRR 20% and the retention rate 20% from 60% - 80%
+          - Lead development and optimization of a public API dashboard to track overall usage (endpoints, methods, http status and latency) for internal and external users and partners   
+          
           - Manage agile product development process of data & API products in the Brandwatch Consumer Research platform
           - Develop and implement product strategies consistent with company vision
           - Analyze product data to inform decisions to optimize performance and diagnose problems
